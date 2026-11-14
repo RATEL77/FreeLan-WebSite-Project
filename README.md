@@ -61,7 +61,7 @@ _All fonts from **Google Fonts** – free for commercial use._
 
 ### 🌍 Live Demo
 
-🔗 [View the live site here](https://ratel77.github.io/FreeLan_WebSite_Project/)
+🔗 [View the live site here](https://ratel77.github.io/FreeLan-WebSite-Project/)
 
 > 💡 No screenshots needed — this site is fully deployed and navigable.
 
@@ -143,7 +143,7 @@ Bootstrap Grid + 커스텀 미디어쿼리 적용.
 
 ### 🌍 배포 주소
 
-🔗 [실시간 사이트 보기](https://ratel77.github.io/FreeLan_WebSite_Project/)
+🔗 [실시간 사이트 보기](https://ratel77.github.io/FreeLan-WebSite-Project/)
 
 > 💡 캡처 이미지 없이 실제 반응형 웹사이트를 직접 확인하실 수 있습니다.
 
